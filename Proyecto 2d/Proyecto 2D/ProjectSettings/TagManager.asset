@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Heroes
+  - Villanos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Knight
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Maze
+    uniqueID: 1227907727
+    locked: 0
+  - name: Knight
+    uniqueID: 3946328481
+    locked: 0
+  - name: Cursor
+    uniqueID: 2250625059
+    locked: 0
+  m_RenderingLayers:
+  - Default

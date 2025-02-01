@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 5fa7962de8af6f94e9e8a4a35a8e8fed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3027123389961344592
+    second: Blue Magician_0
+  - first:
+      213: 1329807522330400192
+    second: Blue Magician_1
+  - first:
+      213: -752960893980449017
+    second: Blue Magician_2
+  - first:
+      213: 7847611543217453584
+    second: Blue Magician_3
+  - first:
+      213: -8776535703110945175
+    second: Blue Magician_4
+  - first:
+      213: 8750332687124091843
+    second: Blue Magician_5
+  - first:
+      213: 3332045207919666100
+    second: Blue Magician_6
+  - first:
+      213: 4144388362793483969
+    second: Blue Magician_7
+  - first:
+      213: -3280811474779527712
+    second: Blue Magician_8
+  - first:
+      213: 5517953379776113662
+    second: Blue Magician_9
+  - first:
+      213: -9007114454270442626
+    second: Blue Magician_10
+  - first:
+      213: -6191455147456140880
+    second: Blue Magician_11
+  - first:
+      213: 4583366943228187610
+    second: Blue Magician_12
+  - first:
+      213: 2501777363597135850
+    second: Blue Magician_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Magician_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3263
+        width: 578
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e312b05f7df5d0800000000000000
+      internalID: -3027123389961344592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_1
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3263
+        width: 578
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5552c55ec647210800000000000000
+      internalID: 1329807522330400192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_2
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 3263
+        width: 546
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e8886e02fc85f0800000000000000
+      internalID: -752960893980449017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_3
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 3263
+        width: 578
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3bb0ce1158ec60800000000000000
+      internalID: 7847611543217453584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2239
+        width: 578
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966f981374b733680800000000000000
+      internalID: -8776535703110945175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2239
+        width: 642
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3558ab73d6f6970800000000000000
+      internalID: 8750332687124091843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_6
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2239
+        width: 642
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32891767dcd3e20800000000000000
+      internalID: 3332045207919666100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_7
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2239
+        width: 610
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce719f0243d38930800000000000000
+      internalID: 4144388362793483969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_8
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 2591
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5adbe98573872d0800000000000000
+      internalID: -3280811474779527712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1215
+        width: 642
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba8b01d55b39c40800000000000000
+      internalID: 5517953379776113662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_10
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1215
+        width: 642
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e738ce5202d400380800000000000000
+      internalID: -9007114454270442626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_11
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1215
+        width: 642
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ec1dd858831aa0800000000000000
+      internalID: -6191455147456140880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_12
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1215
+        width: 578
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3526e73f36b9f30800000000000000
+      internalID: 4583366943228187610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Magician_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 642
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef0258d14918b220800000000000000
+      internalID: 2501777363597135850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Magician_0: -3027123389961344592
+      Blue Magician_1: 1329807522330400192
+      Blue Magician_10: -9007114454270442626
+      Blue Magician_11: -6191455147456140880
+      Blue Magician_12: 4583366943228187610
+      Blue Magician_13: 2501777363597135850
+      Blue Magician_2: -752960893980449017
+      Blue Magician_3: 7847611543217453584
+      Blue Magician_4: -8776535703110945175
+      Blue Magician_5: 8750332687124091843
+      Blue Magician_6: 3332045207919666100
+      Blue Magician_7: 4144388362793483969
+      Blue Magician_8: -3280811474779527712
+      Blue Magician_9: 5517953379776113662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
